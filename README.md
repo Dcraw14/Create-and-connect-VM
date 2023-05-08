@@ -28,9 +28,8 @@ This tutorial outlines the steps to creating a virtual machine and connecting to
 8. Open the RDP file and enter the login credentials for the virtual machine.
 9. Click "Connect" to connect to the virtual machine and start using Remote Desktop.
 
-That's it! You should now be able to access your virtual machine through Remote Desktop.
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Creating and Connecting Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
