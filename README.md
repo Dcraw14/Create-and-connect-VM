@@ -16,7 +16,7 @@ This tutorial outlines the steps to creating a virtual machine and connecting to
 - Windows Server 2022
 - Windows 10 (21H2)
 
-High-Level steps to set up a virtual machine and connect to Remote Desktop in Microsoft Azure:
+<h2>High-Level steps to set up a virtual machine and connect to Remote Desktop in Microsoft Azure:</h2>
 
 1. Log in to your Azure account and go to the Azure Portal.
 2. Click on "Create a resource" and search for "Windows Server" in the marketplace.
