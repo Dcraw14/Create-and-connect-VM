@@ -19,14 +19,15 @@ This tutorial outlines the steps to creating a virtual machine and connecting to
 <h2>High-Level steps to set up a virtual machine and connect to Remote Desktop in Microsoft Azure:</h2>
 
 1. Log in to your Azure account and go to the Azure Portal.
-2. Click on "Create a resource" and search for "Windows Server" in the marketplace.
-3. Choose the version of Windows Server you want to use and configure the virtual machine settings, such as the name, region, and size.
-4. Set up the login credentials and choose the authentication type.
-5. Configure the networking settings, such as the virtual network and subnet.
-6. Review and create the virtual machine.
-7. Once the virtual machine is created, go to the "Overview" section of the virtual machine and click on "Connect" to download the Remote Desktop Protocol (RDP) file.
-8. Open the RDP file and enter the login credentials for the virtual machine.
-9. Click "Connect" to connect to the virtual machine and start using Remote Desktop.
+2. Create a Resource Group
+3. Create a Virtual Machine 
+4. Choose the version of Windows Server you want to use and configure the virtual machine settings, such as the name, region, and size.
+5. Set up the login credentials and choose the authentication type.
+6. Configure the networking settings, such as the virtual network and subnet.
+7. Review and create the virtual machine.
+8. Once the virtual machine is created, go to the "Overview" section of the virtual machine and click on "Connect" to download the Remote Desktop Protocol (RDP) file.
+9. Open the RDP file and enter the login credentials for the virtual machine.
+10. Click "Connect" to connect to the virtual machine and start using Remote Desktop.
 
 
 <h2>Creating and Connecting Steps</h2>
