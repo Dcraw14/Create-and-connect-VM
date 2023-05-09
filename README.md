@@ -35,7 +35,8 @@ This tutorial outlines the steps to creating a virtual machine and connecting to
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Log in to your Azure account and go to the Azure Portal.
+  - Go to the Azure Portal (https://portal.azure.com/) and sign in to your Azure account. In the left-hand menu, click on "Create a resource".
 </p>
 <br />
 
@@ -43,7 +44,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Choose the version of Windows Server you want to use and click on "Create".
+On the "Basics" tab, configure the virtual machine settings, such as the name, region, and size. You can also select the disk type and configure availability options.
+
 </p>
 <br />
 
@@ -51,7 +54,46 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Set up the login credentials and choose the authentication type.
+  -On the "Administrator account" tab, set up the login credentials and choose the authentication type (password or SSH public key).
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4. Configure the networking settings, such as the virtual network and subnet.
+  -On the "Networking" tab, configure the networking settings, such as the virtual network and subnet. You can also configure public IP and DNS settings.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+5. Review and create the virtual machine.
+  -Review your settings and click on "Create" to create the virtual machine.
+ Once the virtual machine is created, go to the "Overview" section of the virtual machine and click on "Connect" to download the Remote Desktop Protocol (RDP) file.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+6. Open the RDP file and enter the login credentials for the virtual machine.
+  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+7. Click "Connect" to connect to the virtual machine and start using Remote Desktop.
 </p>
 <br />
 That's it! You should now be able to access your virtual machine through Remote Desktop.
